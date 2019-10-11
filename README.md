@@ -21,6 +21,6 @@
                             set a file extension to consider
       -p, --paths-only      write only the file paths to stdout
 
-    Multiple extensions can be provided by repeating the " extension argument (eg.
-    '-e .txt -e .readme'). By default the files are sorted using alphabetial
+    Multiple extensions can be provided by repeating the '-e' extension argument
+    (eg. '-e .txt -e .readme'). By default the files are sorted using alphabetial
     order. To sort them by depth use --depth-first or --shallow-first arguments.

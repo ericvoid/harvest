@@ -86,7 +86,7 @@ if __name__ == '__main__':
         description="Harversts files in one or more directory trees and writes "
                     "all the content to stdout.",
         epilog="""
-Multiple extensions can be provided by repeating the "
+Multiple extensions can be provided by repeating the '-e'
 extension argument (eg. '-e .txt -e .readme').
 
 By default the files are sorted using alphabetial order. To sort 
