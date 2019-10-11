@@ -83,7 +83,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(
-        description="Harversts files in one or more directory trees and writes "
+        description="Harvests files in one or more directory trees and writes "
                     "all the content to stdout.",
         epilog="""
 Multiple extensions can be provided by repeating the '-e'

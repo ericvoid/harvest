@@ -2,7 +2,7 @@
 
     usage: harvest.py [-h] [-d | -s] [-v] [-e EXTENSION] [-p] source [source ...]
 
-    Harversts files in one or more directory trees and writes all the content to
+    Harvests files in one or more directory trees and writes all the content to
     stdout.
 
     positional arguments:
